@@ -15,8 +15,8 @@
     <ProjectReference Include="..\..\..\..\..\..\..\..\문서\UE_5.4\Engine\Source\Programs\UnrealBuildTool\UnrealBuildTool.csproj"><Private>false</Private></ProjectReference>
   </ItemGroup>
   <ItemGroup>
-  <Compile Include="..\..\..\..\Source\Myproject.Target.cs"><Link>Source\Myproject.Target.cs</Link></Compile>
-  <Compile Include="..\..\..\..\Source\MyprojectEditor.Target.cs"><Link>Source\MyprojectEditor.Target.cs</Link></Compile>
-  <Compile Include="..\..\..\..\Source\Myproject\Myproject.Build.cs"><Link>Source\Myproject\Myproject.Build.cs</Link></Compile>
+  <Compile Include="..\..\..\..\Source\MyProject.Target.cs"><Link>Source\MyProject.Target.cs</Link></Compile>
+  <Compile Include="..\..\..\..\Source\MyProjectEditor.Target.cs"><Link>Source\MyProjectEditor.Target.cs</Link></Compile>
+  <Compile Include="..\..\..\..\Source\MyProject\MyProject.Build.cs"><Link>Source\MyProject\MyProject.Build.cs</Link></Compile>
   </ItemGroup>
 </Project>

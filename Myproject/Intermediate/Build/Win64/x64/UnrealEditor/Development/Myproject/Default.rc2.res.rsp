@@ -76,9 +76,9 @@
 /DWINDOWS_MAX_NUM_THREADS_WITH_TLS_SLOTS=512
 /DNDEBUG=1
 /DUE_BUILD_DEVELOPMENT=1
-/DORIGINAL_FILE_NAME="UnrealEditor-Myproject.dll"
+/DORIGINAL_FILE_NAME="UnrealEditor-MyProject.dll"
 /DBUILD_ICON_FILE_NAME="\"..\\Build\\Windows\\Resources\\Default.ico\""
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
-/DPROJECT_PRODUCT_IDENTIFIER=Myproject
-/fo "C:\Users\rkc32\OneDrive\Desktop\GITHUB\Myproject\Myproject\Intermediate\Build\Win64\x64\UnrealEditor\Development\Myproject\Default.rc2.res"
+/DPROJECT_PRODUCT_IDENTIFIER=MyProject
+/fo "C:\Users\rkc32\OneDrive\Desktop\GITHUB\Myproject\Myproject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

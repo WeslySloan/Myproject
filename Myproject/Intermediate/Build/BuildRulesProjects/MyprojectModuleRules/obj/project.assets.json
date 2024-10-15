@@ -19,11 +19,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rkc32\\OneDrive\\Desktop\\GITHUB\\Myproject\\Myproject\\Intermediate\\Build\\BuildRulesProjects\\MyprojectModuleRules\\MyprojectModuleRules.csproj",
-      "projectName": "MyprojectModuleRules",
-      "projectPath": "C:\\Users\\rkc32\\OneDrive\\Desktop\\GITHUB\\Myproject\\Myproject\\Intermediate\\Build\\BuildRulesProjects\\MyprojectModuleRules\\MyprojectModuleRules.csproj",
+      "projectUniqueName": "C:\\Users\\rkc32\\OneDrive\\Desktop\\GITHUB\\Myproject\\Myproject\\Intermediate\\Build\\BuildRulesProjects\\MyProjectModuleRules\\MyProjectModuleRules.csproj",
+      "projectName": "MyProjectModuleRules",
+      "projectPath": "C:\\Users\\rkc32\\OneDrive\\Desktop\\GITHUB\\Myproject\\Myproject\\Intermediate\\Build\\BuildRulesProjects\\MyProjectModuleRules\\MyProjectModuleRules.csproj",
       "packagesPath": "C:\\Users\\rkc32\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rkc32\\OneDrive\\Desktop\\GITHUB\\Myproject\\Myproject\\Intermediate\\Build\\BuildRulesProjects\\MyprojectModuleRules\\obj\\",
+      "outputPath": "C:\\Users\\rkc32\\OneDrive\\Desktop\\GITHUB\\Myproject\\Myproject\\Intermediate\\Build\\BuildRulesProjects\\MyProjectModuleRules\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rkc32\\AppData\\Roaming\\NuGet\\NuGet.Config",

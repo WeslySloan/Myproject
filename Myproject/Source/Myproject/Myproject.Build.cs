@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class Myproject : ModuleRules
+public class MyProject : ModuleRules
 {
-	public Myproject(ReadOnlyTargetRules Target) : base(Target)
+	public MyProject(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
