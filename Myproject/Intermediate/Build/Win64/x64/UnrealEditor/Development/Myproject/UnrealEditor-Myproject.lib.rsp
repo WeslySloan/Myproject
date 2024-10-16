@@ -6,7 +6,10 @@
 /NAME:"UnrealEditor-MyProject.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\rkc32\OneDrive\Desktop\GITHUB\Myproject\Myproject\Intermediate\Build\Win64\x64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"C:\Users\rkc32\OneDrive\Desktop\GITHUB\Myproject\Myproject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyProject.cpp.obj"
-"C:\Users\rkc32\OneDrive\Desktop\GITHUB\Myproject\Myproject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\Default.rc2.res"
-/OUT:"C:\Users\rkc32\OneDrive\Desktop\GITHUB\Myproject\Myproject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\UnrealEditor-MyProject.lib"
+"C:\Users\rkc32\OneDrive\Desktop\GITHUB\Myproject\MyProject\Intermediate\Build\Win64\x64\MyProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\rkc32\OneDrive\Desktop\GITHUB\Myproject\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyActor.gen.cpp.obj"
+"C:\Users\rkc32\OneDrive\Desktop\GITHUB\Myproject\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyProject.init.gen.cpp.obj"
+"C:\Users\rkc32\OneDrive\Desktop\GITHUB\Myproject\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyActor.cpp.obj"
+"C:\Users\rkc32\OneDrive\Desktop\GITHUB\Myproject\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\MyProject.cpp.obj"
+"C:\Users\rkc32\OneDrive\Desktop\GITHUB\Myproject\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\Default.rc2.res"
+/OUT:"C:\Users\rkc32\OneDrive\Desktop\GITHUB\Myproject\MyProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject\UnrealEditor-MyProject.lib"
